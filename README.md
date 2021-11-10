@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lehlohonolo-Sehako
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning more about Artificial Intelligence
+- 💞️ I’m looking to collaborate on Artificial Intelligence Projects
 - 📫 How to reach me ...
 
 <!---
